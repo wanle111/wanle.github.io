@@ -1,0 +1,10 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="CCTV1高清http://192.168.31.168:7099/udp/239.254.96.82:7640" tvg-logo="https://live.fanmingming.com/tv/CCTV1高清http://192.168.31.168:7099/udp/239.254.96.82:7640.png",CCTV1高清http://192.168.31.168:7099/udp/239.254.96.82:7640
+undefined
+#EXTINF:-1 tvg-name="CCTV2高清http://192.168.31.168:7099/udp/239.254.96.124:7084" tvg-logo="https://live.fanmingming.com/tv/CCTV2高清http://192.168.31.168:7099/udp/239.254.96.124:7084.png",CCTV2高清http://192.168.31.168:7099/udp/239.254.96.124:7084
+undefined
+#EXTINF:-1 tvg-name="CCTV3高清http://192.168.31.168:7099/udp/239.254.96.67:7520" tvg-logo="https://live.fanmingming.com/tv/CCTV3高清http://192.168.31.168:7099/udp/239.254.96.67:7520.png",CCTV3高清http://192.168.31.168:7099/udp/239.254.96.67:7520
+undefined
+#EXTINF:-1 tvg-name="CCTV4高清http://192.168.31.168:7099/udp/239.254.96.180:7092" tvg-logo="https://live.fanmingming.com/tv/CCTV4高清http://192.168.31.168:7099/udp/239.254.96.180:7092.png",CCTV4高清http://192.168.31.168:7099/udp/239.254.96.180:7092
+undefined
+#EXTINF:-1 tvg-name="CCTV5高清http://192.168.31.168:7099/udp/239.254.96.66:7512" tvg-logo="https://live.fanmingming.com/tv/CCTV5高清http://192.168.31.168:7099/udp/239.254.96.66:7512.png",CCTV5高清http://192.168.31.168:7099/udp/239.254.96.66:7512
